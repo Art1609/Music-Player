@@ -1,0 +1,24 @@
+.song_list {
+  width: 80%;
+}
+
+.song_list tr th {
+  /* background-color: #aaeeee; */
+  padding: 5px;
+}
+
+.song_list tr th:nth-child(1) {
+  width: 5%;
+}
+.song_list tr th:nth-child(2) {
+  width: 30%;
+}
+.song_list tr th:nth-child(3) {
+  width: 30%;
+}
+.song_list tr th:nth-child(4) {
+  width: 15%;
+}
+.song_list tr th:nth-child(5) {
+  width: 10%;
+}

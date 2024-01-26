@@ -1,0 +1,27 @@
+tr {
+  text-align: left;
+  padding: 5px;
+  border-bottom: 1px solid black;
+}
+
+td {
+  padding: 5px;
+}
+
+.icon {
+  font-size: 16px;
+  padding: 2px;
+}
+
+.favorite {
+  color: crimson;
+}
+
+.added {
+  color: forestgreen;
+}
+
+.icon:hover {
+  cursor: pointer;
+  font-size: larger;
+}
